@@ -20,7 +20,7 @@ Code for XXXX 2024 paper ``XXXXXXXXXXXXXXXXXX (XXXX 2021)".
 
 * Clone our repo
 
-Market-1501 (Duke and MSMT are the same):
+Market-1501(namely CnMix) (SYSU and RegDB are the same):
 * Download "Market-1501-v15.09.15.zip".
 * Create a new directory, rename it as "data".
 * Create a directory called "raw" under "data" and put "Market-1501-v15.09.15.zip" under it.
@@ -29,12 +29,12 @@ Market-1501 (Duke and MSMT are the same):
 ![Results](figures/market.png)
 
 
-* There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/1JHUIWVHJlkUERnjet5imwA) with all needed files,
+* There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/1dAMc0HEk_xEBQIJD1JWkPA?pwd=kwwu) (Password: kwwu)  with all needed files,
   password: xxxx. You can directly put it under "data" and unzip it.
 
 ## Preparing Models
 
-* Download re-ID models from [BaiduYun](https://pan.baidu.com/s/1pVVppkp-GQew7g_R6L3IWA) (Password: tua2)
+* Download re-ID models from [BaiduYun](https://pan.baidu.com/s/1lGoahWk--y-A008zl01VMQ?pwd=k4np) (Password: k4np)
 
 
 * Put models under logs/{datasetname}
