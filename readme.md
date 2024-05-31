@@ -1,18 +1,18 @@
-# Learning to Attack Real-World Models for Person Re-identification via Virtual-Guided Meta-Learning (AAAI 2021)
+# XXXXXXXXXXXXXXXXXXXXX (XXXX 2024)
 
-Code for AAAI 2021 paper ``Learning to Attack Real-World Models for Person Re-identification via Virtual-Guided Meta-Learning (AAAI 2021)".
+Code for XXXX 2024 paper ``XXXXXXXXXXXXXXXXXX (XXXX 2021)".
 
 
 ![Results](figures/MetaAttack.png)
 
-## [Paper](pdfs/578_YangF.pdf)
+## [Paper](pdfs/XXXX.pdf)
 
 ## [Supplemental Material](pdfs/MetaAttack_Supp.pdf)
 
 ## Requirements:
 * python 3.7
 * CUDA==10.1
-* Market1501, DukeMTMC-reID, MSMT-17 and [PersonX456](https://github.com/sxzrt/Instructions-of-the-PersonX-dataset).
+* Market1501, Sketch-ReID, SYSU and RegDB dataset.
 * faiss-gpu==1.6.0
 * Other necessary packages listed in [requirements.txt](requirements.txt)
 
