@@ -23,6 +23,7 @@ Market-1501(namely CnMix) (SYSU and RegDB are the same):
 * Create a new directory, rename it as "data".
 * Create a directory called "raw" under "data" and put "Market-1501-v15.09.15.zip" under it.
 * The processed dataset is provided in the link below, please refer to it.
+* To adapt different dataset formats to this code, we have provided conversion scripts. Please refer to CnMix_process.py, cross-modal_dataset_to_market_format.py, deal_SYSU_testset_ID.py, and testset_to_query.py. 
 
 
 * There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/1dAMc0HEk_xEBQIJD1JWkPA?pwd=kwwu) (Password: kwwu)  with all needed files,
@@ -37,7 +38,7 @@ Market-1501(namely CnMix) (SYSU and RegDB are the same):
 
 ## Run our code
  
-See attack.sh for more information.
+See run.sh for more information.
 
 If you find this code useful in your research, please consider citing:
 
