@@ -12,7 +12,7 @@ Code for XXXX 2024 paper ``XXXXXXXXXXXXXXXXXX (XXXX 2021)".
 ## Requirements:
 * python 3.7
 * CUDA==10.1
-* Market1501, Sketch-ReID, SYSU and RegDB dataset.
+* Market1501 (will transform to CnMix), Sketch-ReID, SYSU and RegDB dataset.
 * faiss-gpu==1.6.0
 * Other necessary packages listed in [requirements.txt](requirements.txt)
 
@@ -28,19 +28,9 @@ Market-1501 (Duke and MSMT are the same):
 
 ![Results](figures/market.png)
 
-PersonX:
-* Download full PersonX dataset from 
-  https://github.com/sxzrt/Instructions-of-the-PersonX-dataset, 
-  we use the CVPR'19 version.
-* Merge "query" of "4", "5", "6" together (the same to "bounding_box_train" and "bounding_box_test").
-* Put the merged "query", "bounding_box_train" and "bounding_box_test" to a new directory "personX456", 
-zip it and put it to data/personx/raw
-* The final structure should like this:
-
-![Results](figures/personx.png)
 
 * There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/1JHUIWVHJlkUERnjet5imwA) with all needed files,
-  password: 4fqf. You can directly put it under "data" and unzip it.
+  password: xxxx. You can directly put it under "data" and unzip it.
 
 ## Preparing Models
 
@@ -56,14 +46,14 @@ See attack.sh for more information.
 If you find this code useful in your research, please consider citing:
 
 ```
-@inproceedings{yang2021learning,
-  title={Learning to Attack Real-World Models for Person Re-identification via Virtual-Guided Meta-Learning},
+@inproceedings{XXXXX,
+  title={XXXXg},
   author={Yang, Fengxiang and Zhong, Zhun and Liu, Hong and Wang, Zheng and Luo, Zhiming and Li, Shaozi and Sebe, Nicu and Satoh, Shin’ichi},
-  booktitle={AAAI},
+  booktitle={XXX},
   volume={35},
   number={4},
   pages={3128--3135},
-  year={2021}
+  year={2024}
 }
 ```
 
@@ -81,5 +71,5 @@ if you use our code, please also cite their paper.
 ```
 ## Contact Me
 
-Email: yangfx@stu.xmu.edu.cn
+Email: fmonkey625@gmail.com
 
