@@ -26,15 +26,12 @@ Market-1501(namely CnMix) (SYSU and RegDB are the same):
 * To adapt different dataset formats to this code, we have provided conversion scripts. Please refer to CnMix_process.py, cross-modal_dataset_to_market_format.py, deal_SYSU_testset_ID.py, and testset_to_query.py. 
 
 
-* There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/1dAMc0HEk_xEBQIJD1JWkPA?pwd=kwwu) (Password: kwwu)  with all needed files,
-  password: xxxx. You can directly put it under "data" and unzip it.
+* There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/1dAMc0HEk_xEBQIJD1JWkPA?pwd=kwwu) (Password: kwwu)  with all needed files.
 
 ## Preparing Models
 
 * Download re-ID models from [BaiduYun](https://pan.baidu.com/s/1lGoahWk--y-A008zl01VMQ?pwd=k4np) (Password: k4np)
 
-
-* Put models under logs/{datasetname}
 
 ## Run our code
  
@@ -54,18 +51,6 @@ If you find this code useful in your research, please consider citing:
 }
 ```
 
-## Acknowledgments
-
-Our code is based on [UAP-Retrieval](https://github.com/theFool32/UAP_retrieval), 
-if you use our code, please also cite their paper.
-```
-@inproceedings{Li_2019_ICCV,
-    author = {Li, Jie and Ji, Rongrong and Liu, Hong and Hong, Xiaopeng and Gao, Yue and Tian, Qi},
-    title = {Universal Perturbation Attack Against Image Retrieval},
-    booktitle = {ICCV},
-    year = {2019}
-}
-```
 ## Contact Me
 
 Email: fmonkey625@gmail.com
