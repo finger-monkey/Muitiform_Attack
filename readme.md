@@ -45,7 +45,7 @@ If you find this code useful in your research, please consider citing:
 ```
 @inproceedings{XXXXX,
   title={XXXXg},
-  author={Yang, Fengxiang and Zhong, Zhun and Liu, Hong and Wang, Zheng and Luo, Zhiming and Li, Shaozi and Sebe, Nicu and Satoh, Shin’ichi},
+  author={XXXXXXXXXx},
   booktitle={XXX},
   volume={35},
   number={4},
