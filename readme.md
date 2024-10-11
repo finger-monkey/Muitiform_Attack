@@ -3,9 +3,9 @@
 Code for XXXX 2024 paper ``XXXXXXXXXXXXXXXXXX (XXXX 2024)".
 
 
-## [Paper](pdfs/XXXX.pdf)
+## [Paper](paper/Multiform_attack.pdf)
 
-## [Supplemental Material](pdfs/MetaAttack_Supp.pdf)
+## [Supplemental Material](paper/Supplementary_Materials.pdf)
 
 ## Requirements:
 * python 3.7
