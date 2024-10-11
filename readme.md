@@ -1,6 +1,6 @@
-# XXXXXXXXXXXXXXXXXXXXX (XXXX 2024)
+# Cross-Modality Attack Boosted by Gradient-Evolutionary Multiform Optimization (XXXX 2024)
 
-Code for XXXX 2024 paper ``XXXXXXXXXXXXXXXXXX (XXXX 2024)".
+Code for XXXX 2024 paper ``Cross-Modality Attack Boosted by Gradient-Evolutionary Multiform Optimization (XXXX 2024)".
 
 
 ## [Paper](paper/Multiform_attack.pdf)
@@ -41,7 +41,7 @@ If you find this code useful in your research, please consider citing:
 
 ```
 @inproceedings{XXXXX,
-  title={XXXXg},
+  title={Cross-Modality Attack Boosted by Gradient-Evolutionary Multiform Optimization},
   author={XXXXXXXXXx},
   booktitle={XXX},
   volume={35},
