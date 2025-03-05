@@ -59,3 +59,4 @@ Email: fmonkey625@gmail.com
 ### &#8627; Visitors
 [![Visit tracker](https://clustrmaps.com/map_v2.png?cl=ffffff&w=896&t=tt&d=zLtXBhTnXw66l00fakOMI4K9BJmzjJ_0hpftLgebA_Y)](https://clustrmaps.com/site/1c4pf)
 
+<a href="https://info.flagcounter.com/kORF"><img src="https://s01.flagcounter.com/count2/kORF/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
