@@ -65,7 +65,7 @@ For a reproducible comparison, keep the dataset split, model checkpoint, random 
 If you find this code useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{XXXXX,
+@inproceedings{gong2026ma,
   title={Multiform Attack for Transferable Cross-Modal Person Re-Identification},
   author={Yunpeng Gong, Can Yang, Qingyuan Zeng, Dejun Xu, Zhiming Luo, Zhenzhong Wang, Min Jiang },
   journal={Advances in Neural Information Processing Systems},
