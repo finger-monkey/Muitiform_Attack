@@ -58,7 +58,6 @@ See [`run.sh`](run.sh) for example commands. Before execution, replace the place
 bash run.sh
 ```
 
-For a reproducible comparison, keep the dataset split, model checkpoint, random seed, perturbation budget, image size, batch size, and environment versions fixed across runs.
 
 ## Citation
 
