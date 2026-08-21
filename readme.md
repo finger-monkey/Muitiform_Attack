@@ -1,6 +1,6 @@
-# Multiform Attack for Transferable Cross-Modal Person Re-Identification (NeurIPS 2026)
+# Multiform Attack for Transferable Cross-Modal Person Re-Identification (XXX 2026)
 
-Code for the NeurIPS 2026 paper **"Multiform Attack for Transferable Cross-Modal Person Re-Identification"**.
+Code for the XXX 2026 paper **"Multiform Attack for Transferable Cross-Modal Person Re-Identification"**.
 
 ## Paper
 
@@ -67,12 +67,11 @@ If you find this code useful in your research, please consider citing:
 ```bibtex
 @inproceedings{XXXXX,
   title={Multiform Attack for Transferable Cross-Modal Person Re-Identification},
-  author={XXXXXXXXXx},
-  booktitle={XXX},
-  volume={35},
-  number={4},
-  pages={3128--3135},
-  year={2024}
+  author={Yunpeng Gong, Can Yang, Qingyuan Zeng, Dejun Xu, Zhiming Luo, Zhenzhong Wang, Min Jiang },
+  journal={Advances in Neural Information Processing Systems},
+  volume={XX},
+  pages={XXX},
+  year={2026}
 }
 ```
 
