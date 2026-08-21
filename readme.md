@@ -1,6 +1,6 @@
 # Multiform Attack for Transferable Cross-Modal Person Re-Identification (NeurIPS 2026)
 
-Code for the NeurIPS 2024 paper **"Multiform Attack for Transferable Cross-Modal Person Re-Identification"**.
+Code for the NeurIPS 2026 paper **"Multiform Attack for Transferable Cross-Modal Person Re-Identification"**.
 
 ## Paper
 
