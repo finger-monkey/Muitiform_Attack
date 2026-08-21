@@ -89,15 +89,14 @@ If you find this code useful in your research, please consider citing:
 }
 ```
 ```
-@inproceedings{gong2026theory,
-  title={A theory-inspired framework for few-shot cross-modal sketch person re-identification},
-  author={Gong, Yunpeng and Hou, Yongjie and Shi, Jiangming and Diep, Kim Long and Jiang, Min},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={40},
-  number={6},
-  pages={4284--4292},
-  year={2026}
-
+@article{gong2024cross,
+	title={Cross-modality perturbation synergy attack for person re-identification},
+	author={Gong, Yunpeng and Zhong, Zhun and Qu, Yansong and Luo, Zhiming and Ji, Rongrong and Jiang, Min},
+	journal={Advances in Neural Information Processing Systems},
+	volume={37},
+	pages={23352--23377},
+	year={2024}
+}
 ```
 
 ## Contact
