@@ -73,6 +73,26 @@ If you find this code useful in your research, please consider citing:
   year={2026}
 }
 ```
+```
+@inproceedings{colorAttack2022,
+  title={Person re-identification method based on color attack and joint defence},
+  author={Gong, Yunpeng and Huang, Liqing and Chen, Lifei},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4313--4322},
+  year={2022}
+}
+```
+```
+@inproceedings{gong2026theory,
+  title={A theory-inspired framework for few-shot cross-modal sketch person re-identification},
+  author={Gong, Yunpeng and Hou, Yongjie and Shi, Jiangming and Diep, Kim Long and Jiang, Min},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={6},
+  pages={4284--4292},
+  year={2026}
+
+```
 
 ## Contact
 
