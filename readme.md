@@ -22,7 +22,7 @@ A typical setup is:
 
 ```bash
 conda env create -f environment.yml
-conda activate pami-attack
+conda activate ma-attack
 ```
 
 Alternatively, consult `ENVIRONMENT_SETUP.md` before using the pip requirement files.
