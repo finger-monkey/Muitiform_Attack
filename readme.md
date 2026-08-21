@@ -60,8 +60,8 @@ bash run.sh
 
 ## Related Projects
 
-- [CMPS](https://github.com/finger-monkey/CMPS)
-- [LTA and Joint Defence](https://github.com/finger-monkey/LTA_and_joint-defence)
+- [Cross-modality perturbation synergy attack for person re-identification](https://github.com/finger-monkey/CMPS)
+- [Person re-identification method based on color attack and joint defence](https://github.com/finger-monkey/LTA_and_joint-defence)
 
 
 
