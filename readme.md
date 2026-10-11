@@ -1,8 +1,5 @@
 # Transferable Multiform Attack for Cross-Modal Person Re-Identification
 
-Code for the paper **"Multiform Attack for Transferable Cross-Modal Person Re-Identification"**.
-
-
 
 ## Environment
 
