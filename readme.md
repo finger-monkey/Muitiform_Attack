@@ -64,16 +64,6 @@ bash run.sh
 
 If you find this code useful in your research, please consider citing:
 
-```bibtex
-@inproceedings{gong2026ma,
-  title={Multiform Attack for Transferable Cross-Modal Person Re-Identification},
-  author={Yunpeng Gong, Can Yang, Qingyuan Zeng, Dejun Xu, Zhiming Luo, Zhenzhong Wang, Min Jiang },
-  journal={Advances in Neural Information Processing Systems},
-  volume={XX},
-  pages={XXX},
-  year={2026}
-}
-```
 ```
 @inproceedings{colorAttack2022,
   title={Person re-identification method based on color attack and joint defence},
