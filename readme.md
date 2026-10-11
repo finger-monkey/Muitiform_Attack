@@ -87,7 +87,7 @@ If you find this code useful in your research, please consider citing:
 @inproceedings{
 anonymous2026multiform,
 title={Multiform Attack for Transferable Cross-Modal Person Re-Identification},
-author={Anonymous},
+author={Gong, Yunpeng and Yang, Can and Zeng, Qingyuan and Xu, Dejun and Luo, Zhiming and Wang, Zhenzhong and Jiang, Min},
 booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
 year={2026},
 url={https://openreview.net/forum?id=AjYCRQ99Xu}
