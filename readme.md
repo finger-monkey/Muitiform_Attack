@@ -1,10 +1,8 @@
-# Multiform Attack for Transferable Cross-Modal Person Re-Identification (XXX 2026)
+# Transferable Multiform Attack for Cross-Modal Person Re-Identification
 
-Code for the XXX 2026 paper **"Multiform Attack for Transferable Cross-Modal Person Re-Identification"**.
+Code for the paper **"Multiform Attack for Transferable Cross-Modal Person Re-Identification"**.
 
-## Paper
 
-- [Paper](paper/Multiform_attack.pdf)
 
 ## Environment
 
@@ -96,6 +94,16 @@ If you find this code useful in your research, please consider citing:
 	volume={37},
 	pages={23352--23377},
 	year={2024}
+}
+```
+```
+@inproceedings{
+anonymous2026multiform,
+title={Multiform Attack for Transferable Cross-Modal Person Re-Identification},
+author={Anonymous},
+booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+year={2026},
+url={https://openreview.net/forum?id=AjYCRQ99Xu}
 }
 ```
 
