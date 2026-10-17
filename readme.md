@@ -39,11 +39,7 @@ These scripts contain example local paths and may move or copy files. Review and
 
 Other dataset-specific conversion support is also provided, including [`convert_llcm_to_market.py`](convert_llcm_to_market.py) for converting LLCM into the project-compatible layout.
 
-## Preparing Models
 
-Pretrained ReID models are available from [BaiduYun](https://pan.baidu.com/s/1lGoahWk--y-A008zl01VMQ?pwd=k4np) (Password: `k4np`).
-
-Download the required checkpoints and update the checkpoint paths passed to the attack program.
 
 ## Running the Code
 
